@@ -1,0 +1,11 @@
+{
+    "name": "hp-13/jwtkey",
+    "autoload": {
+        "psr-4": {
+            "Hp13\\Jwtkey\\": "src/"
+        }
+    },
+    "require": {
+        "firebase/php-jwt": "v5.4.0"
+    }
+}
